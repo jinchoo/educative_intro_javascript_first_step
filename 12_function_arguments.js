@@ -113,7 +113,7 @@ printValues() // undefined, undefined, undefined
 
 function printValue(value) {
   let stringToPrint = 'The value I was given is: ' + value
-  console.log(stringToPring)
+  console.log(stringToPrint)
 }
 
 printValue(10) // The value I was given is: 10
